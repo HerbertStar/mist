@@ -2735,9 +2735,10 @@ log4js@^1.1.1:
     semver "^5.3.0"
     streamroller "^0.4.0"
 
-lokijs@^1.4.3:
-  version "1.4.3"
-  resolved "https://registry.yarnpkg.com/lokijs/-/lokijs-1.4.3.tgz#f2a47ba8d6991c92d6da6a5b35be79b674453abb"
+lokijs@^1.5.12:
+  version "1.5.12"
+  resolved "https://registry.yarnpkg.com/lokijs/-/lokijs-1.5.12.tgz#cb55b37009bdf09ee7952a6adddd555b893653a0"
+  integrity sha512-Q5ALD6JiS6xAUWCwX3taQmgwxyveCtIIuL08+ml0nHwT3k0S/GIFJN+Hd38b1qYIMaE5X++iqsqWVksz7SYW+Q==
 
 longest@^1.0.1:
   version "1.0.1"
